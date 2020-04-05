@@ -1,10 +1,9 @@
-# Line-Segment-Detection-Papers
-
-[![image](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lh9171338/Outline)
+[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Line Segment Detection Papers
+===
 
 A collection of edge detection papers (*a.k.a.* contour detection or boundary detection).
 
-# Outline
+**Outline**
 
 - [A](#1-A)
   - [a](#11-a)
