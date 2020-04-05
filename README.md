@@ -24,7 +24,8 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955.pdf) | CVPR 2020 |  |
-| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1909.01955.pdf) | CVPR 2019 |[[Code]](https://arxiv.org/pdf/1812.02122.pdf)  |
+| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1812.02122.pdf) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
+| LCNN | [End-to-EndWireframeParsing]() | ICCV 2019 |  |
 
 ---
 
