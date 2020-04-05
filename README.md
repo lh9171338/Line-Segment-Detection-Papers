@@ -3,7 +3,7 @@
 
 A collection of edge detection papers (*a.k.a.* contour detection or boundary detection).
 
-**Outline**
+# Outline
 
 - [A](#1-A)
   - [a](#11-a)
