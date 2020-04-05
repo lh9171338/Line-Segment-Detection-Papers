@@ -1,18 +1,19 @@
 [<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Line Segment Detection Papers
 ===
 
-A collection of lin segment detection papers (*a.k.a.* wireframe detection).
+A collection of line segment detection papers (*a.k.a.* wireframe detection).
 
 # Outline
 
 - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
-  - [a](#11-a)
+  - [Line Segment Detect](#11-Line-Segment-Detect)
+  - [Line Segment Detect](#11-Line-Segment-Detect)  
 - [Traditional approaches](#2-Traditional-Approaches)
 
 
 # 1. Deep-Learning Based Approaches
 
-## 1.1 LSD
+## 1.1 Line Segment Detect
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
