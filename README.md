@@ -8,7 +8,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 
 - [A](#1-A)
   - [a](#11-a)
-- [B](#1-B)
+- [B](#2-B)
 
 
 # 1. A
