@@ -1,16 +1,16 @@
 [<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Line Segment Detection Papers
 ===
 
-A collection of edge detection papers (*a.k.a.* contour detection or boundary detection).
+A collection of lin segment detection papers (*a.k.a.* wireframe detection).
 
 # Outline
 
-- [A](#1-A)
+- [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
   - [a](#11-a)
-- [B](#2-B)
+- [Traditional approaches](#2-Traditional-Approaches)
 
 
-# 1. A
+# 1. Deep-Learning Based Approaches
 
 ## 1.1 a
 
@@ -34,7 +34,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-## 2. B
+## 2. Traditional Approaches
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
