@@ -7,9 +7,9 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
   - [Line Segment Detect](#11-Line-Segment-Detect)
-  - [Wireframe Parsing](#12-Wireframe-Parsing)  
+  - [Wireframe Parsing](#12-Wireframe-Parsing)
 - [Traditional approaches](#2-Traditional-Approaches)
-
+- [Datasets](#3-Datasets)
 
 # 1. Deep-Learning Based Approaches
 
@@ -29,9 +29,12 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-
 ## 2. Traditional Approaches
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | SemiContour | [SemiContour: A Semi-supervised Learning Approach for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_SemiContour_A_Semi-Supervised_CVPR_2016_paper.pdf) | CVPR 2016 |  |
+
+---
+
+## 3. Datasets
