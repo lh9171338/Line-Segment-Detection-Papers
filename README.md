@@ -23,7 +23,8 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| DexiNed | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955.pdf) | WACV 2020 |[[Code]](https://github.com/xavysp/DexiNed)  |
+| HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955.pdf) | CVPR 2020 |  |
+| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1909.01955.pdf) | CVPR 2019 |[[Code]](https://arxiv.org/pdf/1812.02122.pdf)  |
 
 ---
 
