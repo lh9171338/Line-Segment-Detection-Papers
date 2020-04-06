@@ -45,4 +45,4 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 ## 3. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
-- [YorkUrban Dataset](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
+- [YorkUrban Dataset (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
