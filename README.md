@@ -6,18 +6,18 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 # Outline
 
 - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
-  - [Line Segment Detect](#11-Line-Segment-Detect)
+  - [Line Segment Detect](#11-Line-Segment-Detection)
   - [Wireframe Parsing](#12-Wireframe-Parsing)
 - [Traditional approaches](#2-Traditional-Approaches)
 - [Datasets](#3-Datasets)
 
 # 1. Deep-Learning Based Approaches
 
-## 1.1 Line Segment Detect
+## 1.1 Line Segment Detection
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [Project](https://xuezhucun.github.io/LaRecNet/) |
+| LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
 | Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | IPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
@@ -27,7 +27,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955) | CVPR 2020 |  |
-|  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [Project](https://yichaozhou.com/publication/1811learning/) |
+|  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
 | LCNN | [End-to-EndWireframeParsing](https://arxiv.org/pdf/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
 | Wireframe | [Learning to Parse Wireframes in Images of Man-Made Environments](http://people.eecs.berkeley.edu/~yima/files/cvpr18-parsing-final.pdf) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
 
@@ -40,9 +40,9 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/pdf/2001.01788.pdf) | TPAMI 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://cvrs.whu.edu.cn/publications/2015/CannyLines-ICIP2015.pdf) | ICIP 2015 | [Project](https://cvrs.whu.edu.cn/projects/cannyLines/) |
-|  | [Lifting 3D manhattan lines from a single image](https://ieeexplore.ieee.org/document/6751171) | ICCV 2013 |  |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform](https://ieeexplore.ieee.org/document/7000594) | TIP 2015 |  |
-| LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 | [Code](http://www.ipol.im/pub/art/2012/gjmr-lsd/) |
+|  | [Lifting 3D manhattan lines from a single image](https://ieeexplore.ieee.org/document/6751171) | ICCV 2013 |  |
+| LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 | [[Code]](http://www.ipol.im/pub/art/2012/gjmr-lsd/) |
 | PPHT | [Robustdetection of lines using the progressive probabilistic hough transform]() | CVIU 2000 |  |
 |  | [Generalizing the hough transform to detect arbitrary shapes](https://www.cs.bgu.ac.il/~icbv161/wiki.files/Readings/1981-Ballard-Generalizing_the_Hough_Transform_to_Detect_Arbitrary_Shapes.pdf) | PR 1981 |  |
 
