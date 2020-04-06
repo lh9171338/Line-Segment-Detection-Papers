@@ -33,7 +33,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| SemiContour | [SemiContour: A Semi-supervised Learning Approach for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_SemiContour_A_Semi-Supervised_CVPR_2016_paper.pdf) | CVPR 2016 |  |
+| LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 |  |
 
 ---
 
