@@ -40,8 +40,6 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 |  | [Cannylines: A parameter-free line segment detector]() |  |  |
 |  | [Lifting 3D manhattan lines from a single image]() |  |  |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform]() |  |  |
-
-
 | LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 |  |
 | PPHT | [Robustdetection of lines using the progressive probabilistic hough transform]() | CVIU 2000 |  |
 |  | [Generalizing the hough transform to detect arbitrary shapes](https://www.cs.bgu.ac.il/~icbv161/wiki.files/Readings/1981-Ballard-Generalizing_the_Hough_Transform_to_Detect_Arbitrary_Shapes.pdf) | PR 1981 |  |
