@@ -17,15 +17,19 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| xxx | [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/2003.01663.pdf) | WACV 2020 |[[Code]](xxx)  |
+| PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
+| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1812.02122.pdf) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
+| MCMLSD | [A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]]() |
+| Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | IPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
+ 
 
 ## 1.2 Wireframe Parsing
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955.pdf) | CVPR 2020 |  |
-| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1812.02122.pdf) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
-| LCNN | [End-to-EndWireframeParsing]() | ICCV 2019 |  |
+| LCNN | [End-to-EndWireframeParsing](https://arxiv.org/pdf/1905.03246.pdf) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
+| Wireframe | [Learning to Parse Wireframes in Images of Man-Made Environments](http://people.eecs.berkeley.edu/~yima/files/cvpr18-parsing-final.pdf) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
 
 ---
 
@@ -34,6 +38,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 |  |
+| PPHT | [Robustdetection of lines using the progressive probabilistic hough transform]() | CVIU 2000 |  |
 
 ---
 
