@@ -36,6 +36,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code |
 | --- | --- | --- | --- |
+| MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/pdf/2001.01788.pdf) | TPAMI 2020 |  |
 | MCMLSD | [A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 |  | [Cannylines: A parameter-free line segment detector]() |  |  |
 |  | [Lifting 3D manhattan lines from a single image]() |  |  |
@@ -50,4 +51,4 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 ## 3. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
-- [YorkUrban Dataset (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
+- [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
