@@ -19,16 +19,16 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | --- | --- | --- | --- |
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
-| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/pdf/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
+| AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
 | Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | IPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
  
 ## 1.2 Wireframe Parsing
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/pdf/1909.01955) | CVPR 2020 |  |
+| HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/1909.01955) | CVPR 2020 |  |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
-| LCNN | [End-to-EndWireframeParsing](https://arxiv.org/pdf/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
+| LCNN | [End-to-EndWireframeParsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
 | Wireframe | [Learning to Parse Wireframes in Images of Man-Made Environments](http://people.eecs.berkeley.edu/~yima/files/cvpr18-parsing-final.pdf) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
 
 ---
@@ -37,7 +37,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/pdf/2001.01788.pdf) | TPAMI 2020 |  |
+| MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | TPAMI 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://cvrs.whu.edu.cn/publications/2015/CannyLines-ICIP2015.pdf) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/projects/cannyLines/) |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform](https://ieeexplore.ieee.org/document/7000594) | TIP 2015 |  |
