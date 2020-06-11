@@ -33,7 +33,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-## 2. Traditional Approaches
+# 2. Traditional Approaches
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-## 3. Datasets
+# 3. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
 - [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
