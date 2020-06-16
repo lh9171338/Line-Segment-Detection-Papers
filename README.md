@@ -26,7 +26,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 |  |
+| HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
 | LCNN | [End-to-End Wireframe Parsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
 | Wireframe | [Learning to Parse Wireframes in Images of Man-Made Environments](http://people.eecs.berkeley.edu/~yima/files/cvpr18-parsing-final.pdf) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
