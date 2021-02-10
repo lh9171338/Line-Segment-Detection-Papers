@@ -20,7 +20,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
-| Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | IPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
+| Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | TPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
  
 ## 1.2 Wireframe Parsing
 
