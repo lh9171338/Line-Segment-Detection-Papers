@@ -26,6 +26,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
+|  | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
 | L-CNN | [End-to-End Wireframe Parsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
