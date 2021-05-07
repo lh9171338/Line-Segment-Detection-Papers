@@ -17,6 +17,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
+| LETR | [Line Segment Detection Using Transformers without Edges](https://arxiv.org/abs/2101.01909) | CVPR 2021 | [[Code]](https://github.com/mlpc-ucsd/LETR) |
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
