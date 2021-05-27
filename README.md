@@ -42,7 +42,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | --- | --- | --- | --- |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | TPAMI 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
-| CannyLines | [Cannylines: A parameter-free line segment detector](https://cvrs.whu.edu.cn/publications/2015/CannyLines-ICIP2015.pdf) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/projects/cannyLines/) |
+| CannyLines | [Cannylines: A parameter-free line segment detector](https://cvrs.whu.edu.cn/publications/2015/CannyLines-ICIP2015.pdf) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/cannylines/) |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform](https://ieeexplore.ieee.org/document/7000594) | TIP 2015 |  |
 |  | [Lifting 3D manhattan lines from a single image](https://ieeexplore.ieee.org/document/6751171) | ICCV 2013 |  |
 | LSD | [LSD: A Fast Line Segment Detector with a False Detection Control](https://ieeexplore.ieee.org/document/4731268) | TPAMI 2010 | [[Code]](http://www.ipol.im/pub/art/2012/gjmr-lsd/) |
