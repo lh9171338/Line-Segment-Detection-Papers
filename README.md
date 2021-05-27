@@ -11,7 +11,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 - [Traditional approaches](#2-Traditional-Approaches)
 - [Datasets](#3-Datasets)
 
-# 1. Deep-Learning Based Approaches
+# 1. Deep Learning-Based Approaches
 
 ## 1.1 Line Segment Detection
 
