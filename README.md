@@ -17,8 +17,11 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
+| ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ArXiv 2021 |  |
+| M-LSD | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | ArXiv 2021 | [[Code]](https://github.com/navervision/mlsd) |
 | F-Clip | [Fully Convolutional Line Parsing](https://arxiv.org/abs/2104.11207v2) | ArXiv 2021 | [[Code]](https://github.com/Delay-Xili/F-Clip) |
 | LETR | [Line Segment Detection Using Transformers without Edges](https://arxiv.org/abs/2101.01909) | CVPR 2021 | [[Code]](https://github.com/mlpc-ucsd/LETR) |
+| TP-LSD | [TP-LSD: Tri-Points Based Line Segment Detector](https://arxiv.org/abs/2009.05505) | ECCV 2020 | [[Code]](https://github.com/MegviiRobot/TP-LSD) |
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
@@ -28,7 +31,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-|  | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
+| HT-HAWP | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
 | L-CNN | [End-to-End Wireframe Parsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
