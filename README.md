@@ -29,8 +29,10 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
  
 ## 1.2 Wireframe Parsing
 
-| Name | Paper | Source | Code/Project |
-| --- | --- | --- | --- |
+| Name | Paper | Source | Resource |
+| :--- | :--- | :--- | :--- |
+| ULSD | [ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras](https://www.sciencedirect.com/science/article/pii/S0924271621001623) | ISPRS 2021 | [[Code]](https://github.com/lh9171338/ULSD-ISPRS) |
+
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
@@ -58,3 +60,4 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
 - [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
+- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing)
