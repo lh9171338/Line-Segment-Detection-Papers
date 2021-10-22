@@ -15,7 +15,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ## 1.1 Line Segment Detection
 
-| Name | Paper | Source | Code/Project |
+| Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
 | ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ArXiv 2021 |  |
 | M-LSD | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | ArXiv 2021 | [[Code]](https://github.com/navervision/mlsd) |
@@ -30,9 +30,8 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 ## 1.2 Wireframe Parsing
 
 | Name | Paper | Source | Resource |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | ULSD | [ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras](https://www.sciencedirect.com/science/article/pii/S0924271621001623) | ISPRS 2021 | [[Code]](https://github.com/lh9171338/ULSD-ISPRS) |
-
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/abs/1905.07482) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
@@ -43,7 +42,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 # 2. Traditional Approaches
 
-| Name | Paper | Source | Code/Project |
+| Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | TPAMI 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
