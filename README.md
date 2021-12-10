@@ -44,6 +44,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+| ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | TPAMI 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](http://www.elderlab.yorku.ca/wp-content/uploads/2016/12/Almazan_MCMLSD_A_Dynamic_CVPR_2017_paper.pdf) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://cvrs.whu.edu.cn/publications/2015/CannyLines-ICIP2015.pdf) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/cannylines/) |
