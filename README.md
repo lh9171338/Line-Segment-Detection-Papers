@@ -17,7 +17,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
-| ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ArXiv 2021 |  |
+| ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://arxiv.org/abs/2104.14205) | ICCV 2021 |  |
 | M-LSD | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | ArXiv 2021 | [[Code]](https://github.com/navervision/mlsd) |
 | F-Clip | [Fully Convolutional Line Parsing](https://arxiv.org/abs/2104.11207v2) | ArXiv 2021 | [[Code]](https://github.com/Delay-Xili/F-Clip) |
 | LETR | [Line Segment Detection Using Transformers without Edges](https://arxiv.org/abs/2101.01909) | CVPR 2021 | [[Code]](https://github.com/mlpc-ucsd/LETR) |
