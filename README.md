@@ -31,6 +31,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+| SOLD2 | [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://ieeexplore.ieee.org/document/9578370) | CVPR 2021 | [[Code]](https://github.com/cvg/SOLD2) |
 | ULSD | [ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras](https://www.sciencedirect.com/science/article/pii/S0924271621001623) | ISPRS 2021 | [[Code]](https://github.com/lh9171338/ULSD-ISPRS) |
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
