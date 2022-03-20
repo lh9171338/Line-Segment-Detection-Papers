@@ -50,6 +50,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | --- | --- | --- | --- |
 | PSLine | [Property Similarity Line Segment Detector](https://ieeexplore.ieee.org/document/9651397) | IST 2021 |  |
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
+| PLSD | [PLSD: A Perceptually Accurate Line Segment Detection Approach](https://ieeexplore.ieee.org/document/9018038) | Access 2020 |  |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | arXiv 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://ieeexplore.ieee.org/document/7350850) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/cannylines/) |
