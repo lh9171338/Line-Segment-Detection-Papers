@@ -21,10 +21,12 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://ieeexplore.ieee.org/document/9710129) | ICCV 2021 | [[Code]](https://github.com/Tinyyyy/ELSD) |
 | F-Clip | [Fully Convolutional Line Parsing](https://arxiv.org/abs/2104.11207v2) | ArXiv 2021 | [[Code]](https://github.com/Delay-Xili/F-Clip) |
 | LETR | [Line Segment Detection Using Transformers without Edges](https://ieeexplore.ieee.org/document/9578142) | CVPR 2021 | [[Code]](https://github.com/mlpc-ucsd/LETR) |
+| LS-Net | [LS-Net: fast single-shot line-segment detector](https://link.springer.com/article/10.1007/s00138-020-01138-6) | MVA 2021 |  |
 | TP-LSD | [TP-LSD: Tri-Points Based Line Segment Detector](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_46) | ECCV 2020 | [[Code]](https://github.com/MegviiRobot/TP-LSD) |
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](https://ieeexplore.ieee.org/document/8954315) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://ieeexplore.ieee.org/document/8954275) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://ieeexplore.ieee.org/document/8954315) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
+| Sem-LSD | [Sem-LSD: A Learning-based Semantic Line Segment Detector](https://arxiv.org/abs/1909.06591v2) | arXiv 2019 | [[Code]](https://github.com/SunLoveSheep/Sem-LSD) |
 | Linelet | [A Novel Linelet-based Representation for Line Segment Detection](https://ieeexplore.ieee.org/document/7926451) | TPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
  
 ## 1.2 Wireframe Parsing
@@ -36,6 +38,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_20) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://ieeexplore.ieee.org/document/9157705) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://ieeexplore.ieee.org/document/9010693) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
+|  | [Wireframe Parsing With Guidance of Distance Map](https://ieeexplore.ieee.org/document/8849984) | Access 2019 |  |
 | L-CNN | [End-to-End Wireframe Parsing](https://ieeexplore.ieee.org/document/9008267) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
 | DWP | [Learning to Parse Wireframes in Images of Man-Made Environments](https://ieeexplore.ieee.org/document/8578170) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
 
@@ -45,6 +48,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+| PSLine | [Property Similarity Line Segment Detector](https://ieeexplore.ieee.org/document/9651397) | IST 2021 |  |
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | arXiv 2020 |  |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
