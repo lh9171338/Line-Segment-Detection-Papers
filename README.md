@@ -24,7 +24,6 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | LS-Net | [LS-Net: fast single-shot line-segment detector](https://link.springer.com/article/10.1007/s00138-020-01138-6) | MVA 2021 |  |
 | TP-LSD | [TP-LSD: Tri-Points Based Line Segment Detector](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_46) | ECCV 2020 | [[Code]](https://github.com/MegviiRobot/TP-LSD) |
 | LaRecNet | [Learning to Calibrate Straight Lines for Fisheye Image Rectification](https://ieeexplore.ieee.org/document/8954315) | CVPR 2019 | [[Project]](https://xuezhucun.github.io/LaRecNet/) |
-| PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://ieeexplore.ieee.org/document/8954275) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://ieeexplore.ieee.org/document/8954315) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
 | Sem-LSD | [Sem-LSD: A Learning-based Semantic Line Segment Detector](https://arxiv.org/abs/1909.06591v2) | arXiv 2019 | [[Code]](https://github.com/SunLoveSheep/Sem-LSD) |
  
@@ -36,6 +35,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | ULSD | [ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras](https://www.sciencedirect.com/science/article/pii/S0924271621001623) | ISPRS 2021 | [[Code]](https://github.com/lh9171338/ULSD-ISPRS) |
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_20) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://ieeexplore.ieee.org/document/9157705) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
+| PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://ieeexplore.ieee.org/document/8954275) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://ieeexplore.ieee.org/document/9010693) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
 |  | [Wireframe Parsing With Guidance of Distance Map](https://ieeexplore.ieee.org/document/8849984) | Access 2019 |  |
 | L-CNN | [End-to-End Wireframe Parsing](https://ieeexplore.ieee.org/document/9008267) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
