@@ -34,6 +34,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | SOLD2 | [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://ieeexplore.ieee.org/document/9578370) | CVPR 2021 | [[Code]](https://github.com/cvg/SOLD2) |
 | ULSD | [ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras](https://www.sciencedirect.com/science/article/pii/S0924271621001623) | ISPRS 2021 | [[Code]](https://github.com/lh9171338/ULSD-ISPRS) |
 | HT-HAWP | [Deep Hough-Transform Line Priors](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_20) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) |
+| LGNN | [LGNN: A Context-aware Line Segment Detector](https://dl.acm.org/doi/10.1145/3394171.3413784) | ACM MM 2020 |  |
 | HAWP | [Holistically-Attracted Wireframe Parsing](https://ieeexplore.ieee.org/document/9157705) | CVPR 2020 | [[Code]](https://github.com/cherubicXN/hawp) |
 | PPGNet | [PPGNet: Learning Point-Pair Graph for Line Segment Detection](https://ieeexplore.ieee.org/document/8954275) | CVPR 2019 | [[Code]](https://github.com/svip-lab/PPGNet) |
 |  | [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://ieeexplore.ieee.org/document/9010693) | ICCV 2019 | [[Project]](https://yichaozhou.com/publication/1811learning/) |
