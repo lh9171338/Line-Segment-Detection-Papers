@@ -53,7 +53,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
 | PLSD | [PLSD: A Perceptually Accurate Line Segment Detection Approach](https://ieeexplore.ieee.org/document/9018038) | Access 2020 |  |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | arXiv 2020 |  |
-| Linelet | [A Novel Linelet-based Representation for Line Segment Detection](https://ieeexplore.ieee.org/document/7926451) | TPAMI 2018 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
+| Linelet | [A Novel Linelet-based Representation for Line Segment Detection](https://ieeexplore.ieee.org/document/7926451) | TPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://ieeexplore.ieee.org/document/7350850) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/cannylines/) |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform](https://ieeexplore.ieee.org/document/7000594) | TIP 2015 |  |
