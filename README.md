@@ -18,7 +18,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | Name | Paper | Source      | Resource |
 | --- | --- |-------------| --- |
 | GLSP | [Parsing Line Segments of Floor Plan Images Using Graph Neural Networks](https://arxiv.org/abs/2303.03851) | arXiv 2023 |  |
-| DeepLSD | [DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients](https://arxiv.org/abs/2212.07766) | arXiv 2022 | [[Code]](https://github.com/cvg/DeepLSD) |
+| DeepLSD | [DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients](https://arxiv.org/abs/2212.07766) | CVPR 2023 | [[Code]](https://github.com/cvg/DeepLSD) |
 | LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/abstract/document/9761231) | Access 2022 | [[Code]](https://github.com/iitpvisionlab/LSDNet) |
 | M-LSD | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | AAAI 2022   | [[Code]](https://github.com/navervision/mlsd) |
 | ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://ieeexplore.ieee.org/document/9710129) | ICCV 2021   | [[Code]](https://github.com/Tinyyyy/ELSD) |
