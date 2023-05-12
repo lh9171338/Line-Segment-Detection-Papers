@@ -9,7 +9,8 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
   - [Line Segment Detection](#11-Line-Segment-Detection)
   - [Wireframe Parsing](#12-Wireframe-Parsing)
 - [Traditional approaches](#2-Traditional-Approaches)
-- [Datasets](#3-Datasets)
+- [Survey](#3-Survey)
+- [Datasets](#4-Datasets)
 
 # 1. Deep Learning-Based Approaches
 
@@ -71,7 +72,15 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-# 3. Datasets
+# 3. Survey
+
+| Name | Paper | Source    | Resource |
+| --- | --- |-----------| --- |
+|  | [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://arxiv.org/abs/2305.00264) | arXiv 2023   |  |
+
+---
+
+# 4. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
 - [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
