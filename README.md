@@ -36,6 +36,9 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name    | Paper                                                                                                                                                      | Source | Resource                                                             |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |----------------------------------------------------------------------|
+| HAWPv3  | [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://ieeexplore.ieee.org/document/10243120/) | TPAMI 2023 | [[Code]](https://github.com/cherubicXN/hawp) |
+| MSACWP  | [Multi-scale Structural Asymmetric Convolution for Wireframe Parsing](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_19) | ICONIP 2023 |  |
+|   | [One-Stage Wireframe Parsing in Fish-Eye Images](https://link.springer.com/chapter/10.1007/978-981-99-8552-4_21) | PRCV 2023 |  |
 | NEAT  | [Volumetric Wireframe Parsing from Neural Attraction Fields](https://arxiv.org/abs/2307.10206) | arXiv 2023 |  |
 | HoW-3D  | [HoW-3D: Holistic 3D Wireframe Perception from a Single Image](https://arxiv.org/abs/2208.06999) | 3DV 2022 | [[Code]](https://github.com/wenchao-m/how-3d) |
 | SRW-Net | [Semantic Room Wireframe Detection from a Single View](https://arxiv.org/abs/2206.00491)                                                                   | ICPR 2022 | [[Code]](https://github.com/davidgillsjo/srw-net)                    |
