@@ -90,6 +90,6 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 # 4. Datasets
 
-- [Wireframe Dataset](https://github.com/huangkuns/wireframe)
-- [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
-- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing)
+- [Wireframe Dataset](https://github.com/huangkuns/wireframe) [[🤗 link](https://huggingface.co/spaces/lh9171338/Wirefeame/tree/main)]
+- [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/) [[🤗 link](https://huggingface.co/spaces/lh9171338/YorkUrban/tree/main)]
+- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing) [[🤗 link](https://huggingface.co/spaces/lh9171338/SS360/tree/main)]
