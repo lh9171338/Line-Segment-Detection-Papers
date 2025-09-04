@@ -91,5 +91,10 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 # 4. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe) [[🤗 link](https://huggingface.co/datasets/lh9171338/Wireframe)]
-- [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/) [[🤗 link](https://huggingface.co/datasets/lh9171338/YorkUrban/tree/main)]
-- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing) [[🤗 link](https://huggingface.co/datasets/lh9171338/SS360/tree/main)]
+- [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/) [[🤗 link](https://huggingface.co/datasets/lh9171338/YorkUrban)]
+- [F-Wireframe Dataset (Fisheye image dataset)](https://github.com/lh9171338/ULSD-ISPRS) [[🤗 link](https://huggingface.co/datasets/lh9171338/F-Wireframe)]
+- [F-YorkUrban Dataset (Fisheye image dataset)](https://github.com/lh9171338/ULSD-ISPRS) [[🤗 link](https://huggingface.co/datasets/lh9171338/F-YorkUrban)]
+- [SS180 Dataset (Fisheye image dataset)](https://github.com/lh9171338/ULSD-ISPRS) [[🤗 link](https://huggingface.co/datasets/lh9171338/SS180)]
+- [SS360 Dataset (Spherical image dataset)](https://github.com/lh9171338/ULSD-ISPRS) [[🤗 link](https://huggingface.co/datasets/lh9171338/SS360)]
+
+You can take a look at the dataset samples with the [`LineViewer`](https://huggingface.co/spaces/lh9171338/LineViewer) tool
