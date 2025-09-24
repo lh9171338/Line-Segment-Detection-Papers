@@ -18,6 +18,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 |:---:|:---:|:---:|:---:|
+| LINEA | [LINEA: Fast and Accurate Line Detection Using Scalable Transformers](https://arxiv.org/abs/2505.16264) | ICIP 2025 | [[Code]](https://github.com/SebastianJanampa/LINEA) |
 | RANK-LETR | [Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking](https://arxiv.org/abs/2502.17766) | AAAI 2025 | |
 | DT-LSD | [DT-LSD: Deformable Transformer-based Line Segment Detection](https://arxiv.org/abs/2411.13005) | WACV 2025 | [[Code]](https://github.com/SebastianJanampa/DT-LSD) |
 | AirLine | [AirLine: Efficient Learnable Line Detection with Local Edge Voting](https://arxiv.org/abs/2303.16500) | IROS 2023 | [[Code]](https://github.com/sair-lab/AirLine) |
