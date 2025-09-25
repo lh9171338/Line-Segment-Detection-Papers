@@ -40,6 +40,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | Name | Paper | Source | Resource |
 |:---:|:---:|:---:|:---:|
 | ScaleLSD | [ScaleLSD: Scalable Deep Line Segment Detection Streamlined](https://arxiv.org/abs/2506.09369) | CVPR 2025 | [[Code]](https://github.com/ant-research/scalelsd) |
+| WirePAuS | [WirePAuS: Auxiliary-free Single-shot Wireframe Parsing](https://ieeexplore.ieee.org/document/10688260) | ICME 2024 |  |
 | HAWPv3 | [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://ieeexplore.ieee.org/document/10243120/) | TPAMI 2023 | [[Code]](https://github.com/cherubicXN/hawp) |
 | MSACWP | [Multi-scale Structural Asymmetric Convolution for Wireframe Parsing](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_19) | ICONIP 2023 |  |
 |   | [One-Stage Wireframe Parsing in Fish-Eye Images](https://link.springer.com/chapter/10.1007/978-981-99-8552-4_21) | PRCV 2023 |  |
