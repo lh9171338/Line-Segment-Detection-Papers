@@ -65,7 +65,10 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 |:---:|:---:|:---:|:---:|
+| AAGLSD | [Aligned Anchor Groups Guided Line Segment Detector](https://arxiv.org/abs/2509.00786) | PRCV 2025 |  |
 | POEv2 | [POEv2: a flexible and robust framework for generic line segment detection and wireframe line segment detection](https://arxiv.org/abs/2508.19742) | arXiv 2025 | |
+| PCLSD | [Prediction-Correction Line Segment Detection](https://ieeexplore.ieee.org/document/10447671) | ICASSP 2024 | |
+| CGLSD | [Contrast-Guided Line Segment Detection](https://ieeexplore.ieee.org/document/10372090) | SPL 2023 | [[Code]](https://github.com/alubawzk/CGLSD) |
 | POE | [A Novel Pixel Orientation Estimation Based Line Segment Detection Framework, and Its Applications to SAR Images](https://ieeexplore.ieee.org/document/9851682) | TRGS 2022 | [[Code]](https://github.com/ChenguangTelecom/POE_line_detect) |
 | PSLine | [Property Similarity Line Segment Detector](https://ieeexplore.ieee.org/document/9651397) | IST 2021  |  |
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
