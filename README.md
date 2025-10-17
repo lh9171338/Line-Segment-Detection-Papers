@@ -39,6 +39,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 |:---:|:---:|:---:|:---:|
+| UniVector | [UniVector: Unified Vector Extraction via Instance-Geometry Interaction](https://arxiv.org/abs/2510.13234) | arXiv 2025 | [[Code]](https://github.com/yyyyll0ss/UniVector) |
 | ScaleLSD | [ScaleLSD: Scalable Deep Line Segment Detection Streamlined](https://arxiv.org/abs/2506.09369) | CVPR 2025 | [[Code]](https://github.com/ant-research/scalelsd) |
 | WirePAuS | [WirePAuS: Auxiliary-free Single-shot Wireframe Parsing](https://ieeexplore.ieee.org/document/10688260) | ICME 2024 |  |
 | HAWPv3 | [Holistically-Attracted Wireframe Parsing: From Supervised to Self-Supervised Learning](https://ieeexplore.ieee.org/document/10243120/) | TPAMI 2023 | [[Code]](https://github.com/cherubicXN/hawp) |
