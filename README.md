@@ -40,6 +40,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 |:---:|:---:|:---:|:---:|
+| Co-PLNet | [Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing](https://www.arxiv.org/abs/2601.18252) | arXiv 2026 | [[Code]](https://github.com/GalacticHogrider/Co-PLNet) |
 | UniVector | [UniVector: Unified Vector Extraction via Instance-Geometry Interaction](https://arxiv.org/abs/2510.13234) | arXiv 2025 | [[Code]](https://github.com/yyyyll0ss/UniVector) |
 | ScaleLSD | [ScaleLSD: Scalable Deep Line Segment Detection Streamlined](https://arxiv.org/abs/2506.09369) | CVPR 2025 | [[Code]](https://github.com/ant-research/scalelsd) |
 | WirePAuS | [WirePAuS: Auxiliary-free Single-shot Wireframe Parsing](https://ieeexplore.ieee.org/document/10688260) | ICME 2024 |  |
